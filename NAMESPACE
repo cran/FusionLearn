@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "legend", "plot", "points")
+importFrom("stats", "as.formula", "binomial", "cov", "dnorm",
+             "gaussian", "glm", "pnorm", "var")
