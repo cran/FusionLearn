@@ -25,7 +25,7 @@ This example is used to demonstrate the use of the functions \code{\link{fusionb
 }
 
 \source{
-This data was obtained from \url{https://finance.yahoo.com}. 
+This data is available on Yahoo Finance. 
 }
 
 
